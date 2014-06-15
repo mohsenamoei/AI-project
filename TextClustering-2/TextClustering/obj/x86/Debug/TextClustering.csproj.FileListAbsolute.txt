@@ -1,0 +1,9 @@
+C:\Users\DPK\Downloads\Compressed\TextClustering\TextClustering\TextClustering\bin\Debug\TextClustering.exe
+C:\Users\DPK\Downloads\Compressed\TextClustering\TextClustering\TextClustering\bin\Debug\TextClustering.pdb
+C:\Users\DPK\Downloads\Compressed\TextClustering\TextClustering\TextClustering\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\DPK\Downloads\Compressed\TextClustering\TextClustering\TextClustering\obj\x86\Debug\TextClustering.Properties.Resources.resources
+C:\Users\DPK\Downloads\Compressed\TextClustering\TextClustering\TextClustering\obj\x86\Debug\TextClustering.TextClusteringGUI.resources
+C:\Users\DPK\Downloads\Compressed\TextClustering\TextClustering\TextClustering\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\DPK\Downloads\Compressed\TextClustering\TextClustering\TextClustering\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\DPK\Downloads\Compressed\TextClustering\TextClustering\TextClustering\obj\x86\Debug\TextClustering.exe
+C:\Users\DPK\Downloads\Compressed\TextClustering\TextClustering\TextClustering\obj\x86\Debug\TextClustering.pdb
